@@ -16,8 +16,7 @@ Follow my journey here 👇:
 
 - Exploring Backend integration with Frontend sites
 - Building a React/Node.js AI study buddy application
-
-### 🌱 I’m currently learning Python and Node.js 
+-  🌱 I’m currently learning Python and Node.js 
 
 Check out my [coding portfolio!](https://andreaemorinigo.netlify.app/)
 
