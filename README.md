@@ -12,10 +12,10 @@ Follow my journey here 👇:
 - [TikTok](https://www.tiktok.com/@andreaema7)
 - [YouTube]()
 
-## 🔭 What I am up to
+##  What I am up to
 
-- Exploring Backend integration with Frontend sites
-- Building a React/Node.js AI study buddy application
+-  🦾 Exploring Backend integration with Frontend sites
+-  🔭 Building a React/Node.js AI study buddy application
 -  🌱 I’m currently learning Python and Node.js 
 
 Check out my [coding portfolio!](https://andreaemorinigo.netlify.app/)
